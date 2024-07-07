@@ -359,8 +359,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
   color: #fdcf18;
-  height: 1%;
-  width: 50%;
+  height: 2%;
+  width: 42%;
   margin-left: 50%;
   border-radius: 10px;
+  overflow: hidden;
 }
