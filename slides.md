@@ -41,21 +41,26 @@ Outro - So let's get some basics out of the way..
 ---
 
 ## My lan?
-![demoPicture](images/lan-small.png)
+![myLan](images/lan-small.png)
 
 Uh.. no <!-- .element: class="fragment" -->
 
----
+------
 
-## Base Slide
+## What's myelin then?
 
-Yep, something should be here...
+It's basically a protective sheath around the nerves, including those in the brain and spinal cord.
 
-Now, where did it go?! <!-- .element: class="fragment" -->
+![myelin-normal](images/ms-myelin-normal.png) <!-- .element: class="fragment" -->
 
 Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
+- Healthy nerve
+- describe how electrical impulses normally move quickly at the myelin edges
+
+- This myelin sheath allows electrical impulses to transmit quickly and efficiently along the nerve cells.
+- Can kind of think of it as packetized information
+
+Myelin is an insulating layer, or sheath that forms around nerves, including those in the brain and spinal cord. It is made up of protein and fatty substances. This myelin sheath allows electrical impulses to transmit quickly and efficiently along the nerve cells. If myelin is damaged, these impulses slow down.
 
 ---
 
