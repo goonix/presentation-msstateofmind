@@ -51,7 +51,7 @@ Uh.. no <!-- .element: class="fragment" -->
 
 It's basically a protective sheath around the nerves, including those in the brain and spinal cord.
 
-![myelin-normal](images/ms-myelin-normal.png) <!-- .element: class="fragment" -->
+![myelin-normal](drawings/axon-healthy.png) <!-- .element: class="fragment" -->
 
 Note:
 - Healthy nerve
@@ -62,31 +62,34 @@ Note:
 
 Myelin is an insulating layer, or sheath that forms around nerves, including those in the brain and spinal cord. It is made up of protein and fatty substances. This myelin sheath allows electrical impulses to transmit quickly and efficiently along the nerve cells. If myelin is damaged, these impulses slow down.
 
----
+------
 
-## Base Slide
+## Demyelination
 
-Yep, something should be here...
-
-Now, where did it go?! <!-- .element: class="fragment" -->
-
-Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
-
----
-
-## Base Slide
-
-Yep, something should be here...
-
-Now, where did it go?! <!-- .element: class="fragment" -->
+![demoPicture](drawings/axon-demylenization.png)
+(Omaha's post-winter roads ;) )
 
 Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
+Create lesions when destroyed and can lead to an exacerbation.
+- an increase in existing or new symptoms
+- the lesions is how MS gets its name (multiple scars)
+When damaged, the speed at which electrical impulses can travel slows down
+ - the jump points are unknown
+   - it's sort of like never knowing the size of a packet
+ - so have to take the longer route through the nerve itself
+   - can be thought of like a synchronous, blocked transmission with multiple ACKs and checksums and resends
 
----
+------
+
+## Nerve Damage
+
+![demoPicture](drawings/axon-nervedamage.png)
+
+Note:
+Damage is servere and the brain needs to figure out another route altogether.
+- can lead to permanent loss of function
+
+------
 
 ## Base Slide
 
