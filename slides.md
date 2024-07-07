@@ -41,7 +41,7 @@ Outro - So let's get some basics out of the way..
 ---
 
 ## My lan?
-![demoPicture](/images/lan-small.png)
+![demoPicture](images/lan-small.png)
 
 Uh.. no <!-- .element: class="fragment" -->
 
