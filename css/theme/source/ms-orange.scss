@@ -31,7 +31,18 @@ $headingFont: 'I Think Your Beautiful Too', Impact, sans-serif;
 // Change text colors against light slide backgrounds
 @include light-bg-text-color(#222);
 
-
 // Theme template ------------------------------
 @import "../template/theme";
+// ---------------------------------------------
+
+// Raw Theme css overrides ---------------------
+.reveal .progress {
+	background: rgba(0, 0, 0, 0.2);
+	// color: #ffa500;
+	color: #fdcf18;
+	height: 1%;
+	width: 50%;
+	margin-left: 50%;
+	border-radius: 10px;
+}
 // ---------------------------------------------
