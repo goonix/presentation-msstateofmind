@@ -4,7 +4,7 @@
 ### It can get on your nerves
 
 <!-- .slide: data-transition="zoom" -->
-<!-- .slide: data-background-image="/images/ms-orange.png" -->
+<!-- Finish out with "MS is an invisible disease. You don't see it, but someone you know may live with it. ??? -->
 
 ---
 
@@ -66,7 +66,7 @@ Myelin is an insulating layer, or sheath that forms around nerves, including tho
 
 ## Demyelination
 
-![demoPicture](drawings/axon-demylenization.png)
+![myelin-demyelination](drawings/axon-demylenization.png)
 (Omaha's post-winter roads ;) )
 
 Note:
@@ -83,37 +83,52 @@ When damaged, the speed at which electrical impulses can travel slows down
 
 ## Nerve Damage
 
-![demoPicture](drawings/axon-nervedamage.png)
+![myelin-nerve-damage](drawings/axon-nervedamage.png)
 
 Note:
 Damage is servere and the brain needs to figure out another route altogether.
 - can lead to permanent loss of function
 
+Outro - Now that we know what is does, how does it manifest?
+
+---
+
+## Symptoms
+
+Why is it called "a" symptomatic if you don't have symptoms? <!-- .element: class="fragment" -->
+
+Because if you did have symptoms you would "b" symptomatic! 🙃 <!-- .element: class="fragment" -->
+
 ------
 
-## Base Slide
+## Fatigue
 
-Yep, something should be here...
-
-Now, where did it go?! <!-- .element: class="fragment" -->
+![center](drawings/fatigue.png)
 
 Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
+- Fatigue - #1 symptom
+ - Regardless of how much sleep one gets
 
----
+------
 
-## Base Slide
+## Numbness
 
-Yep, something should be here...
-
-Now, where did it go?! <!-- .element: class="fragment" -->
+![center](drawings/numbness.png)
 
 Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
+- Numbness
 
----
+------
+
+## Tingling
+
+![center](drawings/tingling.png)
+
+Note:
+- Tingling
+ - Can feel like your skin is crawling
+
+------
 
 ## Base Slide
 
