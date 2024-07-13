@@ -6,6 +6,28 @@
 <!-- .slide: data-transition="zoom" -->
 <!-- Finish out with "MS is an invisible disease. You don't see it, but someone you know may live with it. ??? -->
 
+Note:
+# Intro
+
+It's an unseasonably warm late November fall. The chill of an overnight freeze greets you as you open the back door and let your best four-legged friend out ahead of you on his leash. As you start the second trip around the house a gust of wind strikes up and you pull your coat a little closer - should've put the gloves on anyway..
+
+As you approach the side of the house his agility masks his age <16 years> as he hops up onto the low tie wall - seemingly proud of himself. As you get to the edge of the ties your foot slips on the slope of the embankment and you don't fall, but rather lie down at a 45 degree angle rather abruptly. As you lie there you look up and see him grinning, "Keep up old man."
+
+By the time you get back inside you've decided it's a little too early for a Saturday morning and curl up inside a comforter and fall asleep. Some time later you're not sure if you're still dreaming or awake because through your grogginess you realize you can't move. You'd be terrified if it weren't for your addled brain pulling you back into the dark security of sleep.
+
+It's late morning when you awake again and you think, "What a messed up dream." as you clumsily sit up and swing your legs over the edge of the bed. As soon as you stand up you realize something isn't right. You start to lose your balance and thankfully fall back to sit on the bed. You're first thought is that your leg was asleep, but as you sit there trying to massage feeling back into it you realize you've no feeling in your hand, arm, or anywhere on the right side of your body. Maybe it wasn't a dream..
+
+The next couple of months are a blur as you have an MRI and see a specialist at the behest of your doctor. As the specialist confirms the diagnosis, you're thankful because while reading and preparing for this day, you learned many people had to struggle for years for a proper diagnosis, fighting to even be heard. But today you've a name for this new addition to your life - Multiple Sclerosis, or commonly MS. Now you have to learn what that means, and navigate the changes it brings.
+
+
+## start into slides, "so, what is MS?"
+
+Fell 11/23/2012? Day after thanksgiving?
+
+Diagnosed 1/9/2013
+
+
+
 ---
 
 ## What is MS?
@@ -29,6 +51,7 @@ When we talk about cognitive fog later this joke will make more sense - which is
 - A disease in which the immune system attacks nerve fibers and protective myelin in the brain and spinal cord <!-- .element: class="fragment" -->
 - Unpredictable<!-- .element: class="fragment" -->
 - Cause unknown<!-- .element: class="fragment" -->
+  - Data shows there may be a link to environment/geography, genetics, but there hasn't been a single common thread. Although I believe they're getting closer to it. (Epstein Barr virus)
 - Each case as unique as the individual afflicted<!-- .element: class="fragment" -->
   - with some commonalities
 
@@ -201,7 +224,7 @@ As I said before, MS is different for every person, but there are 4 main courses
 
 ## RRMS
 
-![w:575px center](drawings/rrms.png) <!-- .element width="575px" -->
+![RRMS](drawings/rrms.png) <!-- .element width="575px" -->
 
 Note:
 - Relapsing-Remitting
@@ -214,7 +237,7 @@ Note:
 
 ## PPMS
 
-![w:575px center](drawings/ppms.png)<!-- .element width="575px" -->
+![PPMS](drawings/ppms.png)<!-- .element width="575px" -->
 
 Note:
 - Primary Progressive
@@ -228,7 +251,7 @@ Note:
 
 <!-- ![w:575px center](drawings/spms.png) -->
 <!-- ![](drawings/spms.png)  .element height="50%" width="50%" -->
-![](drawings/spms.png) <!-- .element width="575px" -->
+![SPMS](drawings/spms.png) <!-- .element width="575px" -->
 
 Note:
 - Secondary Progressive
@@ -240,7 +263,7 @@ Note:
 
 ## Benign
 
-![w:575px center](drawings/benign.png)<!-- .element width="575px" -->
+![Benign](drawings/benign.png) <!-- .element width="375px" -->
 
 Note:
 - Benign
@@ -248,18 +271,25 @@ Note:
  - Mild course
  - No evidence of worsening after 15 years
 
-------
+---
 
+### Where does that leave us?
 
-## Base Slide
-
-Yep, something should be here...
-
-Now, where did it go?! <!-- .element: class="fragment" -->
+![w:490px center](images/DrManhattanNervousSystem.gif) <!-- .element: class="fragment" width="490px" -->
 
 Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
+1. So, where does that leave us?
+2. Sometimes, reduced to a bundle of nerves.
+
+---
+
+### Really though
+
+Just one day at a time.. like everyone else. &#128522; &#x1F60A;
+
+Note:
+1. Although the cause is unknown and there isn't currently a cure, new therapies are being developed that help reduce and stave off the progression in some cases. But a true cure is at least 10 - 15 years off.
+2. Finish out with "MS is an invisible disease. You don't see it, but someone you know may live with it.
 
 ---
 
