@@ -97,7 +97,8 @@ Outro - Now that we know what is does, how does it manifest?
 
 Why is it called "a" symptomatic if you don't have symptoms? <!-- .element: class="fragment" -->
 
-Because if you did have symptoms you would "b" symptomatic! 🙃 <!-- .element: class="fragment" -->
+<!-- Because if you did have symptoms you would "b" symptomatic! 🙃 -->
+Because if you did have symptoms you would "b" symptomatic! &#x1F643; <!-- .element: class="fragment" -->
 
 ------
 
@@ -166,17 +167,89 @@ Note:
 
 ------
 
-## Base Slide
+## Many others
 
-Yep, something should be here...
-
-Now, where did it go?! <!-- .element: class="fragment" -->
+- Weakness
+- Dropped foot
+- Loss of motor functions
+- &#x221E;
 
 Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
+- Important to note
+- Each characteristic can enhance or conflate another symptom
+ - ex. fatigue often increases numbness, spasticity
 
 ---
+
+## Long and winding road
+
+Note:
+Having MS is a long and winding road..
+
+---
+
+## 4 Courses of the disease:
+- Relapsing-Remitting (RRMS)
+- Primary Progressive (PPMS)
+- Secondary Progressive (SPMS)
+- Benign
+
+Note:
+As I said before, MS is different for every person, but there are 4 main courses or classifications of the disease.
+
+------
+
+## RRMS
+
+![w:575px center](drawings/rrms.png) <!-- .element width="575px" -->
+
+Note:
+- Relapsing-Remitting
+ - At the time of diagnosis 80 - 90% of people will have RRMS
+ - symptoms persist for a period of time, and then disappear partially or completely as it enters temporary remission leaving the person without new symptoms for weeks, months, even years
+ - In time, an exacerbation can happen that causes a relapse
+  - sometimes previous symptoms, sometimes new fun
+
+------
+
+## PPMS
+
+![w:575px center](drawings/ppms.png)<!-- .element width="575px" -->
+
+Note:
+- Primary Progressive
+ - 10 - 15% of people
+ - gradually worsens from the start
+ - generally has worst impact on mobility
+
+------
+
+## SPMS
+
+<!-- ![w:575px center](drawings/spms.png) -->
+<!-- ![](drawings/spms.png)  .element height="50%" width="50%" -->
+![](drawings/spms.png) <!-- .element width="575px" -->
+
+Note:
+- Secondary Progressive
+ - Sort of a pseudo-type
+ - Originally diagnosed with RRMS
+ - if no discernable remission and symptoms accumulate or worsen
+
+------
+
+## Benign
+
+![w:575px center](drawings/benign.png)<!-- .element width="575px" -->
+
+Note:
+- Benign
+ - 5 - 10% of people
+ - Mild course
+ - No evidence of worsening after 15 years
+
+------
+
 
 ## Base Slide
 
