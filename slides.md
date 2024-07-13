@@ -130,41 +130,41 @@ Note:
 
 ------
 
-## Base Slide
+## Spasticity
 
-Yep, something should be here...
-
-Now, where did it go?! <!-- .element: class="fragment" -->
+![center](drawings/tremors.png)
 
 Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
+- Two forms
+ - Tremors - rapid spastic muscle contractions
+ - Tightness - muscle "feels better" contracted
+- Spasticity
+ - Tremors
+  - "twitchy" muscles that can move in an erratic manner
+ - Tightness
+  - muscles so tight can become locked in a bent (flexor spasticity) or extended (extensor spasticity) position and difficult to move
 
----
+------
 
-## Base Slide
+#### Blurred, Double, or Loss of Vision
 
-Yep, something should be here...
-
-Now, where did it go?! <!-- .element: class="fragment" -->
-
-Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
-
----
-
-## Base Slide
-
-Yep, something should be here...
-
-Now, where did it go?! <!-- .element: class="fragment" -->
+![center](drawings/blurred-vision.png)
 
 Note:
-Some helpful notes would likely be.. helpful.
-- Formatting is useful too!
+- adlib
 
----
+------
+
+## Cog Fog
+
+![center](drawings/cog-fog.png)
+
+Note:
+- Cog Fog: Cognitive impairment occurs in 40-65% patients
+ - memory loss, disorientation, and mental sluggishness/concentration, information processing, spacial/visual processing
+ - made worse by stress and exhaustion
+
+------
 
 ## Base Slide
 
