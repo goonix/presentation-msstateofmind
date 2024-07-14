@@ -285,7 +285,8 @@ Note:
 
 ### Really though
 
-Just one day at a time.. like everyone else. &#128522; &#x1F60A;
+  Just one day at a time..<!-- .element: class="fragment" -->
+  <fragment>like everyone else. &#128522; &#x1F60A;<!-- .element: class="fragment" --></fragment>
 
 Note:
 1. Although the cause is unknown and there isn't currently a cure, new therapies are being developed that help reduce and stave off the progression in some cases. But a true cure is at least 10 - 15 years off.
