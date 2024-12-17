@@ -365,3 +365,17 @@ section.has-light-background, section.has-light-background h1, section.has-light
   border-radius: 10px;
   overflow: hidden;
 }
+/* .progress:before, 
+.progress:after {
+    position: absolute; 
+    left: -5px; 
+    height: 40px; 
+    width: 40px; 
+    background: black; 
+    content: ""; 
+    border-radius: 15px;
+  background-image: url('../../images/upside-down-smiley.png');
+}
+.progress:after {
+  background-image: url('../../images/upside-down-smiley.png');
+} */

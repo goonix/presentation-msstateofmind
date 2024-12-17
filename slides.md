@@ -54,7 +54,7 @@ When we talk about cognitive fog later this joke will make more sense - which is
 - A disease in which the immune system attacks nerve fibers and protective myelin in the brain and spinal cord <!-- .element: class="fragment" -->
 - Unpredictable<!-- .element: class="fragment" -->
 - Cause unknown<!-- .element: class="fragment" -->
-  - Data shows there may be a link to environment/geography, genetics, but there hasn't been a single common thread. Although I believe they're getting closer to it. (Epstein Barr virus)
+  - Data shows there may be a link to environment/geography, genetics, but there hasn't been a single common thread. Although I believe they're getting closer to it. (eg. Epstein Barr virus)
 - Each case as unique as the individual afflicted<!-- .element: class="fragment" -->
   - with some commonalities
 
@@ -293,7 +293,31 @@ Note:
 
 Note:
 1. Although the cause is unknown and there isn't currently a cure, new therapies are being developed that help reduce and stave off the progression in some cases. But a true cure is at least 10 - 15 years off.
-2. Finish out with "MS is an invisible disease. You don't see it, but someone you know may live with it.
+2. Finish out with:
+   1. I'd like to leave you with two thoughts:
+      1. MS is an invisible disease. You don't see it, so you can't tell if someone has it
+      2. Gratefully, we're defined not by the difficulties we encounter in life, but how we respond to them - what we do with them.
+
+---
+
+### Really though (BACKUP)
+
+  Just one day at a time..<!-- .element: class="fragment" -->
+  <fragment>like everyone else. &#128522; &#x1F60A;<!-- .element: class="fragment" --></fragment>
+
+Note:
+1. Although the cause is unknown and there isn't currently a cure, new therapies are being developed that help reduce and stave off the progression in some cases. But a true cure is at least 10 - 15 years off.
+   1. Thankfully, the gift in MS holds true for any difficulty - it doesn't define you. What does is how you respond to it / what you do with it
+2. Finish out with:
+   1. I'd like to leave you with two thoughts:
+      1. MS is an invisible disease. You don't see it, so you can't tell if someone has it
+      2. Gratefully, we're defined not by the difficulties we encounter in life, but how we respond to them - what we do with them.
+3. Finish out with "MS is an invisible disease. You don't see it, but someone you know may live with it.
+   1. Gratefully, the reminder Thankfully, the gift in MS holds true for any difficulty - it doesn't define you. What does is how you respond to it / what you do with it
+   2. it doesn't define you, what does
+   3. What defines us is how we respond to difficulties, not the difficulties themselves.
+   4. 
+   5. I'm grateful to be reminded, that the difficulties we encounter are not what define us. Instead, we're defined by how we respond to them.
 
 ---
 
