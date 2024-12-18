@@ -295,8 +295,11 @@ Note:
 1. Although the cause is unknown and there isn't currently a cure, new therapies are being developed that help reduce and stave off the progression in some cases. But a true cure is at least 10 - 15 years off.
 2. Finish out with:
    1. I'd like to leave you with two thoughts:
-      1. MS is an invisible disease. You don't see it, so you can't tell if someone has it
+      1. Remember, MS is an invisible disease. You don't see it, so you can't tell if someone has it. We never know what someone else carries in the life.
       2. Gratefully, we're defined not by the difficulties we encounter in life, but how we respond to them - what we do with them.
+> "You are not defined by your past, your struggles, or your circumstances. You are defined by your strength, your kindness, and your ability to overcome. Keep pushing forward, and know that you are never alone."
+> - Lynda Dodds (Against All Odds)
+
 
 ---
 
