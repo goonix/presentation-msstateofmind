@@ -9,15 +9,15 @@
 Note:
 # Intro
 
-It's an unseasonably warm late November fall. The chill of an overnight freeze greets you as you open the back door and let your best four-legged friend out ahead of you on his leash. As you start the second trip around the house a gust of wind strikes up and you pull your coat a little closer - guess you should've put the gloves on anyway..
+It's an unseasonably warm late November morning. The chill of an overnight freeze greets you as you open the back door and let your best four-legged friend out ahead of you on his leash. As you start the second trip around the house a gust of wind strikes up and you pull your coat a little closer - guess you should've put the gloves on anyway..
 
 As you approach the side of the house his agility masks his age <16 years> as he hops up onto the low tie wall - seemingly proud of himself. As you get to the edge of the ties your foot slips on the slope of the embankment and you don't fall, but rather lie down at a 45 degree angle rather abruptly. As you lie there you look up and see him grinning, "Keep up old man."
 
 By the time you get back inside you've decided it's a little too early for a Friday morning and curl up inside a comforter and fall asleep. Some time later you're not sure if you're still dreaming or awake because through your grogginess you realize you can't move. You'd be terrified if it weren't for your addled brain pulling you back into the dark security of sleep.
 
-It's late morning when you awake again and you think, "What a messed up dream." as you clumsily sit up and swing your legs over the edge of the bed. As soon as you stand up you realize something isn't right. You start to lose your balance and thankfully fall back to sit on the bed. You're first thought is that your leg was asleep, but as you sit there trying to massage feeling back into it you realize you've no feeling in your hand, arm, or anywhere on the right side of your body. Maybe it wasn't a dream..
+It's late morning when you awake again and you think, "What a messed up dream." as you clumsily sit up and swing your legs over the edge of the bed. As soon as you stand up you realize something isn't right. You start to lose your balance and thankfully fall back to sit on the bed. Your first thought is that your leg was asleep, but as you sit there trying to massage feeling back into it you realize you've no feeling in your hand, arm, or anywhere on the right side of your body. Maybe it wasn't a dream..
 
-The next couple of months are a blur as you have an MRI and see a specialist at the behest of your doctor. As the specialist confirms the diagnosis, you're thankful because while reading and preparing for this day, you learned many people had to struggle for years for a proper diagnosis, or fighting to even be heard. But today you've a name for this new addition to your life - Multiple Sclerosis, or commonly MS. Now you have to learn what that means, and navigate the changes it brings.
+The next couple of months are a blur as you have an MRI and see a specialist at the behest of your doctor. As the specialist confirms the diagnosis, you're thankful because while reading and preparing for this day, you learned many people have had to struggle for years for a proper diagnosis, or fighting to even be heard. But today you've a name for this new addition to your life - Multiple Sclerosis, or more commonly MS. Now you have to learn what that means, and navigate the changes it brings.
 
 
 ## start into slides, "so, what is MS?"
@@ -153,6 +153,7 @@ Note:
 
 Note:
 - Tingling
+ - Kind of like the feeling coming back to a limb that's fallen asleep
  - Can feel like your skin is crawling
 
 ------
@@ -164,12 +165,9 @@ Note:
 Note:
 - Two forms
  - Tremors - rapid spastic muscle contractions
+   - "twitchy" muscles that can move in an erratic manner
  - Tightness - muscle "feels better" contracted
-- Spasticity
- - Tremors
-  - "twitchy" muscles that can move in an erratic manner
- - Tightness
-  - muscles so tight can become locked in a bent (flexor spasticity) or extended (extensor spasticity) position and difficult to move
+   - muscles so tight can become locked in a bent (flexor spasticity) or extended (extensor spasticity) position and difficult to move
 
 ------
 
@@ -205,12 +203,16 @@ Note:
 - Each characteristic can enhance or conflate another symptom
  - ex. fatigue often increases numbness, spasticity
 
+Outro - Where does MS lead?
+
 ---
 
 ## Long and winding road
 
 Note:
 Having MS is a long and winding road..
+
+Outro - But as I mentioned before, there are some commonalities.
 
 ---
 
@@ -295,11 +297,18 @@ Note:
 1. Although the cause is unknown and there isn't currently a cure, new therapies are being developed that help reduce and stave off the progression in some cases. But a true cure is at least 10 - 15 years off.
 2. Finish out with:
    1. I'd like to leave you with two thoughts:
-      1. Remember, MS is an invisible disease. You don't see it, so you can't tell if someone has it. We never know what someone else carries in the life.
+      1. MS is an invisible disease. You don't see it, so you can't tell if someone has it. It's a gentle reminder that we never know what someone else carries in their life.
       2. Gratefully, we're defined not by the difficulties we encounter in life, but how we respond to them - what we do with them.
 > "You are not defined by your past, your struggles, or your circumstances. You are defined by your strength, your kindness, and your ability to overcome. Keep pushing forward, and know that you are never alone."
 > - Lynda Dodds (Against All Odds)
 
+---
+
+## The beat goes on
+
+;
+
+Note:
 
 ---
 
