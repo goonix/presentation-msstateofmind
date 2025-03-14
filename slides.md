@@ -62,7 +62,7 @@ Note:
 - In many ways, it's like an undirected hyperactive immune system that eats itself
 - Being unique to each patient, it can add to a delay in diagnosis or even an initial misdiagnosis
 
-Outro - So let's get some basics out of the way..
+Outro - So let's get some basics out of the way.. We mentioned mylen.. 
 
 ---
 
